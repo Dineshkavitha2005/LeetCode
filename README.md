@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [2235-add-two-integers](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dineshkavitha2005/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
