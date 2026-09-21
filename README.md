@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dineshkavitha2005/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Dineshkavitha2005/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
@@ -75,5 +76,6 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Dineshkavitha2005/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
