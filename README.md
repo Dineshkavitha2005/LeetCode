@@ -78,4 +78,16 @@
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Dineshkavitha2005/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
