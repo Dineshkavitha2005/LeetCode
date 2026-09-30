@@ -85,6 +85,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0649-dota2-senate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -145,4 +146,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
