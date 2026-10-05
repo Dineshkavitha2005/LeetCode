@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -44,6 +46,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -96,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -117,6 +121,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1603-design-parking-system](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -168,4 +173,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
