@@ -65,6 +65,7 @@
 | [0015-3sum](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0649-dota2-senate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
