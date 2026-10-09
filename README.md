@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -85,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
