@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -77,6 +78,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
