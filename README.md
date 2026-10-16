@@ -79,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
@@ -95,6 +96,7 @@
 | [0009-palindrome-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -194,4 +196,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
