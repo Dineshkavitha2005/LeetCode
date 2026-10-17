@@ -82,6 +82,7 @@
 | [0069-sqrtx](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@
 | [0066-plus-one](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
