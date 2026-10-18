@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -47,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
