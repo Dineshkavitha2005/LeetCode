@@ -48,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@
 | [0136-single-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -115,6 +118,7 @@
 | [0058-length-of-last-word](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0649-dota2-senate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
