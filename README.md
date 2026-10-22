@@ -51,6 +51,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@
 | [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0649-dota2-senate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
