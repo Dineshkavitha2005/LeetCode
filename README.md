@@ -126,6 +126,7 @@
 | [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0649-dota2-senate](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [0709-to-lower-case](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Divide and Conquer
