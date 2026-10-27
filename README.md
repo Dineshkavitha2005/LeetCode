@@ -110,6 +110,7 @@
 | [0231-power-of-two](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -185,6 +186,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
