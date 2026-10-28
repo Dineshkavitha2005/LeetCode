@@ -71,6 +71,7 @@
 | [0231-power-of-two](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Two Pointers
@@ -111,6 +112,7 @@
 | [0258-add-digits](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -187,6 +189,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
