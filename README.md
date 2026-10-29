@@ -37,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
@@ -108,6 +109,7 @@
 | [0013-roman-to-integer](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -194,6 +196,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
