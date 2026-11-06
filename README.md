@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1046-last-stone-weight](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -58,6 +59,7 @@
 | [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -93,6 +96,7 @@
 | [0283-move-zeroes](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +105,7 @@
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
