@@ -26,6 +26,7 @@
 | [0941-valid-mountain-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1051-height-checker](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -75,6 +76,7 @@
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bit Manipulation
@@ -279,4 +281,12 @@
 | [0141-linked-list-cycle](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
