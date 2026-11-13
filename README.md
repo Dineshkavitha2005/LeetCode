@@ -38,6 +38,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -173,6 +174,7 @@
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Dineshkavitha2005/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
