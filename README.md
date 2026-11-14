@@ -37,6 +37,7 @@
 | [1470-shuffle-the-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -145,6 +146,7 @@
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2235-add-two-integers](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dineshkavitha2005/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -174,6 +176,7 @@
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Dineshkavitha2005/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Design
