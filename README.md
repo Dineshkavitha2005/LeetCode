@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -174,6 +175,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -182,6 +184,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1603-design-parking-system](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
