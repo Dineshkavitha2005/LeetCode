@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
@@ -83,6 +84,7 @@
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0561-array-partition](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -146,6 +148,7 @@
 | [0367-valid-perfect-square](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
