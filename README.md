@@ -27,6 +27,7 @@
 | [0561-array-partition](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0704-binary-search](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
@@ -122,6 +123,7 @@
 | [0268-missing-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0704-binary-search](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dineshkavitha2005/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
