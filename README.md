@@ -230,6 +230,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0326-power-of-three/) | Easy |
@@ -302,6 +303,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
