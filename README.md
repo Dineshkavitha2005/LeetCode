@@ -172,6 +172,7 @@
 | [0709-to-lower-case](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dineshkavitha2005/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
