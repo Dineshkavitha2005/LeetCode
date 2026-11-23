@@ -306,6 +306,7 @@
 | [0143-reorder-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Dineshkavitha2005/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
